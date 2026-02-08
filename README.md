@@ -1,4 +1,6 @@
-You can easily replace the src attributes in the <img> tags with your own graphics later, or keep the placeholders as they are designed to match your color scheme.
+INSTALLATION: Clone this repo in a folder that you may call 'health'. 
+
+You can easily edit the html page and replace the src attributes in the <img> tags with your own graphics later, or keep the placeholders as they are designed to match your color scheme.
 
 The Visceral Fat Calculator is a health-focused web application designed to estimate and track visceral fat levels—the "hidden" fat stored deep inside the abdominal cavity around vital organs.
 
